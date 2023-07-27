@@ -19,4 +19,7 @@ US News Best Graduate Schools on the Google Map
 - [US News Top Nursing Schools](https://www.usnews.com/best-graduate-schools/top-nursing-schools/nur-rankings)
     - [2023-2024 TOP50 Google Map](https://www.google.com/maps/d/u/0/edit?mid=1MZhvFuTDEOjhvvZYNC4z7thluHkOJJA&usp=sharing)
 
+- [US News Top Education Schools](https://www.usnews.com/best-graduate-schools/top-education-schools/edu-rankings)
+    - [2023-2024 TOP50 Google Map](https://www.google.com/maps/d/u/0/edit?mid=19hhBB23ApuPf4YDzVsC4JAGsXemB9TA&usp=sharing)
+
 
