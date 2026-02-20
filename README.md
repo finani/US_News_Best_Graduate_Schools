@@ -23,6 +23,7 @@ US News Best Graduate Schools on the Google Map
 - Google Map
   - [2022-2023 TOP 150](https://www.google.com/maps/d/edit?mid=1AhfVbLbH9I_vkG8ddhUdeSTDB4DTYUzv&usp=sharing)
   - [2023-2024 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1nUuqCiIKcWZzYTtJGlaD_tQFYm6v3Pw&usp=sharing)
+  - [2025 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=11Uc2mmG8_jo5jcULuTgt3gH7EmJRTxo&usp=sharing)
 
 ## Medical
 
