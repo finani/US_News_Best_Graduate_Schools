@@ -8,6 +8,7 @@ US News Best Graduate Schools on the Google Map
 
 - Google Map
   - [2023-2024 TOP 50](https://www.google.com/maps/d/u/0/edit?mid=1MBQzR2mHdywUPe7VzsdeThQOtlX0AZA&usp=sharing)
+  - [2025 TOP 50](https://www.google.com/maps/d/u/0/edit?mid=1oICFzNV4fUJ_Ik3FJ8qXDg5LV8gJ4xs&usp=sharing)
 
 ## Law
 
@@ -15,6 +16,7 @@ US News Best Graduate Schools on the Google Map
 
 - Google Map
   - [2023-2024 TOP 50](https://www.google.com/maps/d/u/0/edit?mid=1G45pgzZZ7NRt5ilVHzxwD12CfDcC5dQ&usp=sharing)
+  - [2025 TOP 50](https://www.google.com/maps/d/u/0/edit?mid=1O6vamfvkYQqWYwcQVb1mLOV10a7VozA&usp=sharing)
 
 ## Engineering
 
@@ -31,6 +33,7 @@ US News Best Graduate Schools on the Google Map
 
 - Google Map
   - [2023-2024 TOP 50](https://www.google.com/maps/d/u/0/edit?mid=1TORarDCPxvdiqeW7I7zNu8paikhqwCY&usp=sharing)
+  - [2025 TOP Tiers](https://www.google.com/maps/d/u/0/edit?mid=1bCMVBewB_Bep4z9wBGXyy5cCxJboRkw&usp=sharing)
 
 ## Nursing
 
@@ -38,6 +41,7 @@ US News Best Graduate Schools on the Google Map
 
 - Google Map
   - [2023-2024 TOP 50](https://www.google.com/maps/d/u/0/edit?mid=1MZhvFuTDEOjhvvZYNC4z7thluHkOJJA&usp=sharing)
+  - [2025 TOP 50](https://www.google.com/maps/d/u/0/edit?mid=1DCnuRAGjYa9R1zPEgmq72rYb4pfe5Lc&usp=sharing)
 
 ## Education
 
@@ -45,3 +49,4 @@ US News Best Graduate Schools on the Google Map
 
 - Google Map
   - [2023-2024 TOP 50](https://www.google.com/maps/d/u/0/edit?mid=19hhBB23ApuPf4YDzVsC4JAGsXemB9TA&usp=sharing)
+  - [2025 TOP 50](https://www.google.com/maps/d/u/0/edit?mid=1LUgbm7DwnAD2c04vQjI-TGui_tVlEAE&usp=sharing)
