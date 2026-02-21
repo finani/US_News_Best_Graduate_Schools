@@ -4,6 +4,13 @@
 
 ## Quacquarelli Symonds (QS)
 
+### University
+
+> [QS World University Rankings](https://www.topuniversities.com/world-university-rankings)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1rIc5ZVxq6wMuAnvvJgWNhQshuBkugSQ&usp=sharing)
+
 ## US News
 US News Best Schools on the Google Map
 
