@@ -11,6 +11,41 @@
 - Google Map
   - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1rIc5ZVxq6wMuAnvvJgWNhQshuBkugSQ&usp=sharing)
 
+#### Arts & Humanities
+
+> [QS World Arts & Humanities Rankings](https://www.topuniversities.com/university-subject-rankings/arts-humanities)
+
+- Google Map
+  - [2025 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1MIGVAEUlJ5Vas6W44v3hMPjh48lka5I&usp=sharing)
+
+#### Engineering & Technology
+
+> [QS World Engineering & Technology Rankings](https://www.topuniversities.com/university-subject-rankings/engineering-technology)
+
+- Google Map
+  - [2025 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1PiPYbjD-vxRzixjSs45nWRP-oPSJlH8&usp=sharing)
+
+#### Life Sciences & Medicine
+
+> [QS World Life Sciences & Medicine Rankings](https://www.topuniversities.com/university-subject-rankings/life-sciences-medicine)
+
+- Google Map
+  - [2025 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1ujH7joGsMc4vAlScxeJ5SIqY9spUAs0&usp=sharing)
+
+#### Natural Sciences
+
+> [QS World Natural Sciences Rankings](https://www.topuniversities.com/university-subject-rankings/natural-sciences)
+
+- Google Map
+  - [2025 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1hNdSa27eyFqYUZA-fSU_QrAZmeL58w4&usp=sharing)
+
+#### Social Sciences & Management
+
+> [QS World Social Sciences & Management Rankings](https://www.topuniversities.com/university-subject-rankings/social-sciences-management)
+
+- Google Map
+  - [2025 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1Qu8vOtEHP-_kiMPEDfQiWm9d_hgoI4o&usp=sharing)
+
 ## US News
 US News Best Schools on the Google Map
 
