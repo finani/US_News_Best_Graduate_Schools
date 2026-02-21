@@ -2,6 +2,13 @@
 
 ## Times Higher Education (THE)
 
+### University
+
+> [THE World University Rankings](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1IkuF1fBZHJQa0L-jRu4PhwsKVoLP07k&usp=sharing)
+
 ## Quacquarelli Symonds (QS)
 
 ### University
