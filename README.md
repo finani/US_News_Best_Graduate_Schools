@@ -16,6 +16,76 @@
 - Google Map
   - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1iUMTWwZo2g0nhIslECNGdQHjkSb0jfI&usp=sharing)
 
+#### Business & Economics
+
+> [THE World Business & Economics Rankings](https://www.timeshighereducation.com/world-university-rankings/2026/subject-ranking/business-and-economics)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1JtFGLrXMdsGXvfcjMQygEYqVvpef5Ek&usp=sharing)
+
+#### Computer Science
+
+> [THE World Computer Science Rankings](https://www.timeshighereducation.com/world-university-rankings/2026/subject-ranking/computer-science)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1M50hwodjz5Fok6IOFm988wRMIi3Y3yY&usp=sharing)
+
+#### Education Studies
+
+> [THE World Education Studies Rankings](https://www.timeshighereducation.com/world-university-rankings/2026/subject-ranking/education)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1_pY-2vMMO8C6ZHHQueC9gvrMT20tMUo&usp=sharing)
+
+#### Engineering
+
+> [THE World Engineering Rankings](https://www.timeshighereducation.com/world-university-rankings/2026/subject-ranking/engineering)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1u-mlVEqZ1-mweA2ZGsbrsHxFI32AhXE&usp=sharing)
+
+#### Law
+
+> [THE World Law Rankings](https://www.timeshighereducation.com/world-university-rankings/2026/subject-ranking/law)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1ZLm_UolbV_n5mPq95hVb6iBdgmmtICI&usp=sharing)
+
+#### Life Sciences
+
+> [THE World Life Sciences Rankings](https://www.timeshighereducation.com/world-university-rankings/2026/subject-ranking/life-sciences)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1eJ9GdBDpx8ZIsfX_Zpaaa00k7-CqUFA&usp=sharing)
+
+#### Medical & Health
+
+> [THE World Medical & Health Rankings](https://www.timeshighereducation.com/world-university-rankings/2026/subject-ranking/clinical-pre-clinical-health)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1cANyiWFF2IpZvijWHXv169oiSrzn5cQ&usp=sharing)
+
+#### Physical Sciences
+
+> [THE World Physical Sciences Rankings](https://www.timeshighereducation.com/world-university-rankings/2026/subject-ranking/physical-sciences)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1C624rHxNJbP0wVfVITmNR1GkKrdZhWo&usp=sharing)
+
+#### Psychology
+
+> [THE World Psychology Rankings](https://www.timeshighereducation.com/world-university-rankings/2026/subject-ranking/psychology)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1NFHZbyCaxhYpzoTPubHRsEbYH-dxaqc&usp=sharing)
+
+#### Social Sciences
+
+> [THE World Social Sciences Rankings](https://www.timeshighereducation.com/world-university-rankings/2026/subject-ranking/social-sciences)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1E-FOjeQ7-qiUbLoRzPFs_O8NvxaEvts&usp=sharing)
+
 ## Quacquarelli Symonds (QS)
 
 ### University
