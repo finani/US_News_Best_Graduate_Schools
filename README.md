@@ -1,5 +1,32 @@
 # Best Schools
 
+## [CSRankings](https://csrankings.org/#/index?all&world)
+
+### Total
+
+- Google Map
+  - [2016-2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1W2-u5mqS4p-GYrbZT-p8MUuGevUAy-U&usp=sharing)
+
+### AI
+
+- Google Map
+  - [2016-2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1lxm-tQJaeNl-ZeiK0wuaNX7OPrGdnoo&usp=sharing)
+
+### Systems
+
+- Google Map
+  - [2016-2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1GqmDmqzxYOH0kpk_VJbJDuWfhXXIztk&usp=sharing)
+
+### Theory
+
+- Google Map
+  - [2016-2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1ymDw4OXukDR2fqCZAqbmaDeselSdAhw&usp=sharing)
+
+### Interdisciplinary Areas
+
+- Google Map
+  - [2016-2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1eD34i90YvUk7HpUZfZJv_kbdm0SP1JQ&usp=sharing)
+
 ## Times Higher Education (THE)
 
 ### University
