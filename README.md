@@ -9,6 +9,13 @@
 - Google Map
   - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1IkuF1fBZHJQa0L-jRu4PhwsKVoLP07k&usp=sharing)
 
+#### Arts & Humanities
+
+> [THE World Arts & Humanities Rankings](https://www.timeshighereducation.com/world-university-rankings/2026/subject-ranking/arts-and-humanities)
+
+- Google Map
+  - [2026 TOP 150](https://www.google.com/maps/d/u/0/edit?mid=1iUMTWwZo2g0nhIslECNGdQHjkSb0jfI&usp=sharing)
+
 ## Quacquarelli Symonds (QS)
 
 ### University
