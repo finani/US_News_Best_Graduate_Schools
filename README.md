@@ -198,3 +198,16 @@ US News Best Schools on the Google Map
   - [2023-2024 TOP 50](https://www.google.com/maps/d/u/0/edit?mid=1MZhvFuTDEOjhvvZYNC4z7thluHkOJJA&usp=sharing)
   - [2025 TOP 50](https://www.google.com/maps/d/u/0/edit?mid=1DCnuRAGjYa9R1zPEgmq72rYb4pfe5Lc&usp=sharing)
 
+## UAE Golden Visa
+
+> [Abu Dhabi Residents Office](https://adro.gov.ae/Visas/Types-of-Visas/Abu-Dhabi-Golden-Visa/Students)
+
+### THE University
+
+- Google Map
+  - [2026 TOP 100](https://www.google.com/maps/d/u/0/edit?mid=1g_vxaZLsJNocAgVMOalE-WuBvnXVy50&usp=sharing)
+
+### QS University
+
+- Google Map
+  - [2026 TOP 100](https://www.google.com/maps/d/u/0/edit?mid=1C8chRbSFBX1Iv2blG4NUnsrWD9z3ej4&usp=sharing)
